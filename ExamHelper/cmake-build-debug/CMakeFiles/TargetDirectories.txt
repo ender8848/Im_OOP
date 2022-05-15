@@ -1,0 +1,3 @@
+C:/Users/85378/Documents/My-Code/JobHunting/OOP(cpp)/OOPExamTut/ExamHelper/cmake-build-debug/CMakeFiles/ExamHelper.dir
+C:/Users/85378/Documents/My-Code/JobHunting/OOP(cpp)/OOPExamTut/ExamHelper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/85378/Documents/My-Code/JobHunting/OOP(cpp)/OOPExamTut/ExamHelper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
